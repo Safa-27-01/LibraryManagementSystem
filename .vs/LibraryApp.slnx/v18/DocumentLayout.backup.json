@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|c:\\users\\user\\source\\repos\\libraryapp\\librarydata\\backuphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\backuphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|c:\\users\\user\\source\\repos\\libraryapp\\librarydata\\librarytransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\librarytransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|c:\\users\\user\\source\\repos\\libraryapp\\librarydata\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|c:\\users\\user\\source\\repos\\libraryapp\\librarydata\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|c:\\users\\user\\source\\repos\\libraryapp\\librarydata\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|c:\\users\\user\\source\\repos\\libraryapp\\librarydata\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D8DFE9-7E21-CC74-0777-C487386337A8}|LibraryData\\LibraryData.csproj|solutionrelative:librarydata\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42280FE1-FFD6-076D-193C-650246D53A75}|LibraryApp\\LibraryApp.csproj|c:\\users\\user\\source\\repos\\libraryapp\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42280FE1-FFD6-076D-193C-650246D53A75}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryData\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\MemberRepository.cs",
+              "RelativeToolTip": "LibraryData\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:16:28.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\Book.cs",
+              "RelativeToolTip": "LibraryData\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:06:03.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryData\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\BookRepository.cs",
+              "RelativeToolTip": "LibraryData\\BookRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:11:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\LibraryTransactionRepository.cs",
+              "RelativeDocumentMoniker": "LibraryData\\LibraryTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\LibraryTransactionRepository.cs",
+              "RelativeToolTip": "LibraryData\\LibraryTransactionRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:21:10.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackupHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\BackupHelper.cs",
+              "RelativeDocumentMoniker": "LibraryData\\BackupHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\BackupHelper.cs",
+              "RelativeToolTip": "LibraryData\\BackupHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:26:39.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryData\\Member.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryData\\Member.cs",
+              "RelativeToolTip": "LibraryData\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:07:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-27T18:36:05.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryApp\\LibraryApp\\Program.cs",
+              "RelativeToolTip": "LibraryApp\\Program.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:53:38.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
